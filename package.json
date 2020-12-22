@@ -1,0 +1,28 @@
+{
+  "name": "simplegridwalker",
+  "version": "1.0.0",
+  "description": "A Simple Grid Walker for DaCodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a01334390/SimpleGridWalker.git"
+  },
+  "keywords": [
+    "grid",
+    "walker"
+  ],
+  "author": "Fernando Martin Garcia Del Angel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a01334390/SimpleGridWalker/issues"
+  },
+  "homepage": "https://github.com/a01334390/SimpleGridWalker#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3"
+  }
+}
